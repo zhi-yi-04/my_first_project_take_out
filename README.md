@@ -1,0 +1,2 @@
+# my_first_project_take_out
+skt_take_out
